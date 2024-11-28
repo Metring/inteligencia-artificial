@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em Harry Potter, você seria...";
+    caixaPerguntas.textContent = "Você seria...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
