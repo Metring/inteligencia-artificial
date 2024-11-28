@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Homem-Aranha.",
-                afirmacao: "Você parece ser alguém com grandes responsabilidades, além de empático e altruísta!"
+                afirmacao: "Você parece ser alguém com grandes responsabilidades, além de empático e altruísta, você seria um bom médico."
             },
             {
                 texto: "Batman.",
-                afirmacao: "Você parece ser alguém mais introvertido, mas que sempre está pronto para defender a justiça!."
+                afirmacao: "Você parece ser alguém mais introvertido, mas que sempre está pronto para defender a justiça, você seria um otimo policial ou bombeiro."
             }
         ]
     },
